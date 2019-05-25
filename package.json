@@ -1,0 +1,16 @@
+{
+  "name": "tweetscruber",
+  "version": "1.0.0",
+  "description": "A Node App to scrub tweet and maybe update at some point.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alugbin LordRahl Abiodun Olutola",
+  "license": "ISC",
+  "dependencies": {
+    "custom-env": "^1.0.1",
+    "node-fetch": "^2.6.0",
+    "twit": "^2.2.11"
+  }
+}
