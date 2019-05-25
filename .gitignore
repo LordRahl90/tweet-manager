@@ -4,3 +4,4 @@
 test_config.env
 /copied
 test_entities.conf
+package-lock.json
