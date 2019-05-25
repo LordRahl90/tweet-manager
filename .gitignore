@@ -1,4 +1,6 @@
 .env
-./.env.staging
-./node_modules
+.env.staging
+/node_modules
 test_config.env
+/copied
+test_entities.conf
