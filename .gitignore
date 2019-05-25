@@ -1,4 +1,4 @@
 .env
 ./.env.staging
 ./node_modules
-test_config
+test_config.env
